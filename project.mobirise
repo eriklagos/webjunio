@@ -298,7 +298,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
@@ -321,7 +321,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ipro-1666x1103.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -338,7 +338,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/prototipo-regional-2000x1500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,

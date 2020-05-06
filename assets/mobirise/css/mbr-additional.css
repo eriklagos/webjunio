@@ -2599,48 +2599,11 @@ body {
 }
 .cid-qUIRk6RdLD {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-1911x10802.jpg");
 }
-.cid-qWcSF65ZwE {
-  background-image: url("../../../assets/images/concepcin-1110x4003.jpg");
-}
-.cid-qWcSF65ZwE .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-.cid-qWcSF65ZwE .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-qWcSF65ZwE .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-rm8QpkrBXo {
-  background: #0f7699;
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #cc2952, #0f7699);
-}
-.cid-rm8QpkrBXo .image-block {
-  margin: auto;
-}
-.cid-rm8QpkrBXo figcaption {
-  position: relative;
-}
-.cid-rm8QpkrBXo figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rm8QpkrBXo .image-block {
-    width: 100% !important;
-  }
+.cid-qUIRk6RdLD .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-qUISDFDGrk {
   padding-top: 45px;
@@ -3233,7 +3196,7 @@ body {
   color: #767676 !important;
 }
 .cid-qUJ6grKHeL {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/fondoblog-284x177.jpg");
 }
 .cid-qUJ6grKHeL h1 {
   color: #616161;
@@ -3245,6 +3208,18 @@ body {
 }
 .cid-qUJ6grKHeL .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-qUJ6grKHeL H1 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-qUJ6grKHeL H3 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-qUJ6grKHeL P {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-qUP8ufiQdL {
   padding-top: 30px;

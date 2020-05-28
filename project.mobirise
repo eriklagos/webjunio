@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Erik Lagos Consultor",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 71,
+    "uniqCompNum": 73,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -1858,6 +1858,25 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/yeonkkot/sets/s10",
+            "autoplay": false,
+            "fullWidth": false,
+            "bgColor": "#fff"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F319928647&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F319928647",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extensión"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-20"
         },
         {
           "_styles": {

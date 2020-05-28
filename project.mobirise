@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Erik Lagos Consultor",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.7.7",
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },

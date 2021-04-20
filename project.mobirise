@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Erik Lagos Consultor",
-    "currentPage": "mases.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,6 +44,10 @@
     "versionPublish": "5.3.0",
     "screenshot": "screenshot.png",
     "imageResize": false,
+    "publishType": "local",
+    "publishPath": "file:///D:/Programas%202021/Web%20ELM",
+    "gitHubName": "eriklagos",
+    "gitHubPath": "mobirise",
     "publishChangesOnly": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -51,7 +55,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "mbrsiteDomain": "eriklagos"
+    "mbrsiteDomain": "eriklagos",
+    "mbrsite": "mbrsite://%7B%22id%22%3A119100%2C%22domain%22%3A%22eriklagos.mobirisesite.com%22%7D"
   },
   "pages": {
     "index.html": {
@@ -2789,16 +2794,12 @@
           "_anchor": "gallery1-1s",
           "_protectedParams": [
             "text_all",
-            "gallery__filtersTextStyle",
-            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
-            "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Increíble",
